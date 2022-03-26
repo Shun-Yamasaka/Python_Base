@@ -1,3 +1,4 @@
+# CSVファイルを読み込む
 import csv # csvモジュールをインポート
 
 f = open("Sample.csv", "r") # csvファイルを読み込む
